@@ -2,7 +2,7 @@
 "plugins": ["disqus"],
 “pluginsConfig”: {
 "disqus": {
- “shortName":” “whb1990111”
+ “shortName": "whb1990111"
   }
 }
 }
